@@ -1,5 +1,5 @@
 {
-  "homepage":"https://shiba-tatsuya.github.io/react_rock_paper_scissors",
+  "homepage": "https://shiba-tatsuya.github.io/react_rock_paper_scissors",
   "name": "react-rock-paper-scissors",
   "version": "1.0.0",
   "description": "",
@@ -20,7 +20,8 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.8.1"
+    "react-router-dom": "^6.8.1",
+    "webpack": "^5.75.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.12",
@@ -29,6 +30,7 @@
     "gh-pages": "^5.0.0",
     "parcel-bundler": "^1.12.5",
     "prettier": "^2.8.4",
-    "sass": "^1.58.3"
+    "sass": "^1.58.3",
+    "webpack-cli": "^5.0.1"
   }
 }
